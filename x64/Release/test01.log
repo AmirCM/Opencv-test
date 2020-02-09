@@ -1,0 +1,7 @@
+﻿  test01.cpp
+  Generating code
+  181 of 344 functions (52.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  test01.vcxproj -> C:\my doc\codes\MSV\Opencv\test01\x64\Release\test01.exe
